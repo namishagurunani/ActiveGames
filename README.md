@@ -1,9 +1,6 @@
 # ActiveGames UI->>
 ![image](https://github.com/namishagurunani/ActiveGames/assets/126158413/8381c29e-3acd-48d7-9521-77ae0c16086d)
-# Sumbission Required:
-- Github Link:[click here](https://github.com/namishagurunani/ActiveGames)
-- Hosted Link:[click here](https://namishagurunani.github.io/ActiveGames/)
-# Explanation: 
+# Explanation of UI: 
 # HTML:
 ![image](https://github.com/namishagurunani/ActiveGames/assets/126158413/c8fb2c4c-3ae0-4179-b7c8-b5a867cac5ed)
 - This portion is created using 'div','img','h5','p','ul' and 'span' tag.
@@ -14,3 +11,6 @@
 - This portion is created using 'section','div','h1','h2','p','img' and 'span' tag.
 # CSS: 
 - Item are flexive using 'display' property where value is flex, by using 'flex-direction' property we align our items in column, for justifying background color we use 'Background-color' property, we create image using 'img' tag and with the help of 'height','width' and 'border-radius' property we provide border,height and width of image.
+# Sumbission Required:
+- Github Link:[click here](https://github.com/namishagurunani/ActiveGames)
+- Hosted Link:[click here](https://namishagurunani.github.io/ActiveGames/)

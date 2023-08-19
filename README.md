@@ -1,7 +1,7 @@
 # ActiveGames UI->>
 ![image](https://github.com/namishagurunani/ActiveGames/assets/126158413/8381c29e-3acd-48d7-9521-77ae0c16086d)
 # Explanation of UI: 
-![image](https://github.com/namishagurunani/ActiveGames/assets/126158413/c8fb2c4c-3ae0-4179-b7c8-b5a867cac5ed)
+# ![image](https://github.com/namishagurunani/ActiveGames/assets/126158413/c8fb2c4c-3ae0-4179-b7c8-b5a867cac5ed)
 # HTML:
 - This portion is created using 'div','img','h5','p','ul' and 'span' tag.
 # CSS:
